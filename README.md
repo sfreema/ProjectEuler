@@ -1,2 +1,2 @@
 # ProjectEuler
-My collection of Project Euler problem solutions.
+My collection of [Project Euler](https://projecteuler.net/) problem solutions.
